@@ -57,14 +57,6 @@ You might also want to develop your own programmatic solutions to create dataflo
 
 Public APIs allow developers simple and easy ways to interact with Power BI and dataflows.
 
-### Extend your capabilities with Azure
-Azure Data Lake Storage Gen2 is included with every paid Power BI subscription (10 GB per user, 100 TB per P1 node). So, you can easily get started with self-service data prep on Azure Data Lake. 
-
-Power BI can be configured to store dataflow data in your organization’s Azure Data Lake Storage Gen2 account. When Power BI is connected to your Azure subscription, data developers and data scientists can leverage powerful Azure products such as Azure Machine Learning, Azure Databricks, Azure Data Factory, and more.
-
-Power BI can also connect to folders with schematized data in the Common Data Model format, which are stored your organization’s Azure Data Lake Storage account. These folders can be created by services such as Azure data services. By connecting to these folders, analysts can work seamlessly with this data in Power BI. 
-
-
 ## Dataflow capabilities on Power BI Premium
 
 For dataflow features and workloads to operate on a Power BI Premium subscription, the dataflow workload for that Premium capacity must be turned on. You can learn more about Power BI Premium in the [what is Power BI Premium](service-premium.md) article. 
